@@ -13,4 +13,5 @@ ICA means "Independent Computing Architecture".
 ```sh
 $ git clone https://github.com/AtLab-jp/ICA
 $ cd ICA/
+$ pip install -r ./lib/requirement.txt
 ```
